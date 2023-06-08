@@ -12,4 +12,4 @@ The dataset contains a total of 883 sentences, distributed as follows:
 * 820 non-ironic sentences
 
 ## Dataset Usage
-This dataset can be used preferebly for evaluating irony detection models in Spanish. 
+This dataset is suitable for evaluating irony detection models in Spanish.
